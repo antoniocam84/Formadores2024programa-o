@@ -12,7 +12,7 @@ width: 15%;
 height: 15%;
 }
 
-.lista{
+.cabeçalho_lista{
     display: inline-block;
     margin: 0 32px;
     font-size: 24px;
