@@ -10,8 +10,9 @@ width: 25%;
 height: 25%;
 }
 
-
-
+.lista{
+    display: inline-block;
+}
 
 
 
