@@ -12,10 +12,11 @@ width: 15%;
 height: 15%;
 }
 
-.lista{
+.itens{
     display: inline-block;
     margin: 0 32px;
     font-size: 30px;
+
 }
 
 * {
