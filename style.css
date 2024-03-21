@@ -3,6 +3,8 @@ background-color: greenyellow;
 color: black;
 display: flex;
 justify-content: space-around;
+align-items: center;
+padding: 24px 0;
 }
 
 .cabeçalho_imagem {
@@ -13,6 +15,13 @@ height: 25%;
 .lista{
     display: inline-block;
     margin: 0 32px;
+    font-size: 24px;
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
 }
 
 
