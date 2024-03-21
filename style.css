@@ -1,6 +1,6 @@
 .cabeçalho_itens{
 background-color: blue;
-color: white
+color: white;
 display: flex;
 justify-content: space-around;
 align-items: center;
