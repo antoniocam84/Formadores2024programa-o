@@ -1,6 +1,7 @@
 .cabeçalho_itens{
 background-color: greenyellow;
 color: black;
+display: flex;
 }
 
 .cabeçalho_imagem {
