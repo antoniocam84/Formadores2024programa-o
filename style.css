@@ -25,16 +25,12 @@ height: 15%;
     padding: 24px 0;
 }
 
-ul{
+a {
 
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    align-items: center;
-    padding: 10px;
+    color: white;
+    text-decoration: none;
 
 }
-
 
 
 
