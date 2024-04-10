@@ -25,6 +25,14 @@ height: 15%;
     padding: 24px 0;
 }
 
+nav{
+    padding: 0,2px;
+background-color: rgba(113, 179, 87, 0.712);
+border-bottom: 2px solid white;
+font-size: 32px;
+color: white;
+}
+
 
 
 
