@@ -30,4 +30,15 @@ a {
     text-decoration: none;
 
 }
+img{
+
+    width: 300px;
+    height: 150px;
+    border-radius: 20%;
+    border: 5px solid white;
+    
+}
+
+
+
 
