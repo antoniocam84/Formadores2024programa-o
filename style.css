@@ -55,3 +55,10 @@ header{
     color: white;
 
 }
+nav{
+    padding: 0,2px;
+background-color: blue;
+border-bottom: 2px solid rgb(228, 109, 109);
+font-size: 32px;
+color: white;
+}
