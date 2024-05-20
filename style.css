@@ -46,15 +46,6 @@ h1{
     text-align: center;
 }
 
-header{
-
-    padding: 10px;
-    background-color: rgba(0, 47, 255, 0.308);
-    border-bottom: 2px solid white;
-    font-size: 32px;
-    color: white;
-
-}
 nav{
     padding: 0,2px;
 background-color: blue;
